@@ -1,0 +1,10 @@
+{
+  "name": "MoodVision AI",
+  "description": "Intelligent web application that estimates visible facial expressions from webcam photos or uploaded images using real AI computer vision.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
