@@ -99,7 +99,7 @@ INSTRUCTIONS:
    - Set "disclaimer": "These results represent AI-estimated visible facial expressions and do not determine a person's actual emotional state."`;
 
       const response = await ai.models.generateContent({
-        model: 'gemini-3.8-flash',
+        model: 'gemini-4-hydrogen',
         contents: {
           parts: [
             {
